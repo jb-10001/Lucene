@@ -1,0 +1,50 @@
+.ant-layout-content {
+  min-height: auto;
+  flex: 1;
+  overflow-y: auto;
+}
+
+.ant-layout-sider-trigger {
+  background: #13a3de;
+}
+
+.ant-layout-sider {
+  background-color: #fff !important;
+}
+
+.margin-bottom {
+  margin-bottom: 20px;
+}
+
+.ant-table-thead > tr > th {
+  background: #ebeef8 !important;
+}
+
+.flex-box-column {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.flex-1 {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.padding-lr {
+  padding: 0 18px;
+}
+
+.flex-box {
+  display: flex;
+  align-items: center;
+}
+
+.ant-menu-item > span {
+  width: 100%;
+  display: block;
+}
+
+.ant-menu-item .ant-upload {
+  width: 100%;
+}

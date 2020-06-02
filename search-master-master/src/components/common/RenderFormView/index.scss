@@ -1,0 +1,33 @@
+/* eslint-disable */
+/**柯礼钦
+ * 4/8/2020, 9:45:09 AM
+ * doc comment for the file goes here
+ */
+
+/** Happy Coding */
+.render-form-view {
+  &-main {
+    & .mark input{
+      color: #58bc58;
+    }
+   
+    & .ant-card-grid {
+      padding: 12px;
+      border: 0;
+      box-shadow: none !important;
+    }
+    & .label-style {
+      margin-bottom: 5px;
+    }
+    & .label-ext{
+      color:#848484;
+      font-size:10px;
+      margin-left:8px;
+    }
+    & .ant-radio-group {
+      height: 32px;
+      display: flex;
+      align-items: center;
+    }
+  }
+}
